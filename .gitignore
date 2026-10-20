@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+venv/
+venv310/
+.venv/
+results/
+*.las
+*.laz
+*.pcd
+*.ply
+*.tif
+*.tiff
+.DS_Store
