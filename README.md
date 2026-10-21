@@ -81,7 +81,7 @@ Additional Python libraries depend on the specific implementations used in the n
 
 - Python installed on your system.
 - Jupyter Notebook or JupyterLab, if the workflow uses notebooks.
-- Access to the input LiDAR dataset.
+- Code compatible LiDAR dataset.
 - Required Python libraries installed for the individual scripts or notebooks.
 
 ### 1. Clone the repository
@@ -178,7 +178,7 @@ Potential extensions include:
 
 ## Author
 
-**Bala Sabarish S H**
+**Bala Sabarish S H ,Sivani K U,Krithika V**
 
 B.E. Geoinformatics | Remote Sensing and GIS
 
