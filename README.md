@@ -1,4 +1,4 @@
-# Lidar_biom
+# Lidar_biomas
 # LiDAR-Based Tree Count Estimation Using Python
 
 A Python-based workflow for processing LiDAR point-cloud data, inspecting and visualizing vegetation structure, and estimating tree counts.
